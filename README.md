@@ -48,11 +48,17 @@
 
 ---
 # Pithy Quotes
-> Problems are common, but attitude makes the difference By *APJ Abdul Kalam*
+> Problems are common, but attitude makes the difference. By *APJ Abdul Kalam*
 
 > Everything is easy when you are busy. But nothing is easy when you are lazy. By *Swami Vivekananda*
 
 > Persistence is very important. You should not give up unless you are forced to give up. By *Elon Musk*
+
+---
+# Track Window Resizes through Google Analytics
+---
+
+
 
 
 
