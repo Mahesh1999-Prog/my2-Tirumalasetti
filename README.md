@@ -48,9 +48,9 @@
 
 ---
 # Pithy Quotes
-> Dream is not that which you see while sleeping it is something that does not let you sleep. By *APJ Abdul Kalam*
-> Everything is easy when you are busy. But nothing is easy when you are lazy. By *Swami Vivekananda*
-> Persistence is very important. You should not give up unless you are forced to give up. By *Elon Musk*
+> Dream is not that which you see while sleeping it is something that does not let you sleep. By*APJ Abdul Kalam*
+> Everything is easy when you are busy. But nothing is easy when you are lazy. By*Swami Vivekananda*
+> Persistence is very important. You should not give up unless you are forced to give up. By*Elon Musk*
 
 
 
