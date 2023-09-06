@@ -4,6 +4,3 @@ I was worked 16months in MNC for Amazon Robotics Project and under graduated fro
 I had a very good experience in the Past comapany, where I learned more about team work and advanced technologies like Oracle, Amazon Web Services.
 
 ![MaheshImage](MaheshPhoto.jpg)
-
-
-

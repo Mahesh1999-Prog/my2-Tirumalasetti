@@ -31,7 +31,7 @@
 * Puttu and Kadala Curry
 
 **[Mahesh MyStats Demo](MyStats.md)**
-**[Image](Mahesh Photo)**
+**[Image](MaheshPhoto.jpg)**
 
 
 
