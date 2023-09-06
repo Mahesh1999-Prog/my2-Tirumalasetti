@@ -16,6 +16,17 @@
 
 5. Wildlife Safari
 
+### List of dishes Munnar offers
+
+1. Munnar Tea
+
+2. Appam with Stew
+
+3. Kerala Sadya
+
+4. Puttu and Kadala Curry
+
+
 
 
 
