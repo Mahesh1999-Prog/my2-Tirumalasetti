@@ -26,6 +26,12 @@
 
 4. Puttu and Kadala Curry
 
+* Idiyappam
+* Malabar Parotta with Chicken Curry
+* Karimeen Pollichathu
+* Meen Curry
+
+
 
 
 
