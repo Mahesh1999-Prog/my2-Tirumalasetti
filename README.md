@@ -56,7 +56,37 @@
 
 ---
 # Track Window Resizes through Google Analytics
----
+
+<https://www.zdnet.com/education/computers-tech/what-is-stack-overflow/>
+
+```
+
+(function() {
+  var resizeTimer;
+  
+  // Assuming we have jQuery present
+  $( window ).on( "resize", function() {
+    
+    // Use resizeTimer to throttle the resize handler
+    clearTimeout( resizeTimer );
+    resizeTimer = setTimeout(function() {
+
+     /* Send the event to Google Analytics
+      *
+      * https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiEventTracking
+      * _trackEvent(category, action, opt_label, opt_value, opt_noninteraction)   
+      */
+      var $window = $( window );
+      _gaq.push( [ "_trackEvent", "User Actions", "Browser Resize", $window.width() + " x " + $window.height() ] );
+    }, 1000);
+  });
+})();
+
+```
+
+<https://css-tricks.com/snippets/jquery/track-window-resizes-through-google-analytics/>
+
+
 
 
 
