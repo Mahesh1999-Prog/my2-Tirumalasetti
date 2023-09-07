@@ -55,9 +55,9 @@
 > "Persistence is very important. You should not give up unless you are forced to give up." By *Elon Musk*
 
 ---
-# Track Window Resizes through Google Analytics
+# Code Fencing- Track Window Resizes through Google Analytics
 
-<https://www.zdnet.com/education/computers-tech/what-is-stack-overflow/>
+[Stack Quick Link](https://www.zdnet.com/education/computers-tech/what-is-stack-overflow/)
 
 ```
 
@@ -84,7 +84,7 @@
 
 ```
 
-<https://css-tricks.com/snippets/jquery/track-window-resizes-through-google-analytics/>
+[Quick Link](https://css-tricks.com/snippets/jquery/track-window-resizes-through-google-analytics/)
 
 
 
